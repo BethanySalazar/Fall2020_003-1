@@ -2,3 +2,6 @@
 Repository for Lab5 Section 3 Fall 2020
 
 Hello I am Bethany, editing from eclipse
+
+Hello I am editing this on Github
+
